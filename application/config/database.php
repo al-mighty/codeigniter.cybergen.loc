@@ -79,7 +79,7 @@ $db['default'] = array(
 	'username' => 'codeigniter_root',
 	'password' => '',
 	'database' => 'codeigniter_cybergen',
-	'dbdriver' => 'mysql',
+	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
